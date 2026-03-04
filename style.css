@@ -86,6 +86,8 @@ display: flex;
 padding: 16px 0px 16px 0px;
 align-items: flex-start;
 align-self: stretch;
+font-family: FrutigerLTPro-55Roman;
+
 border-bottom: 1px solid;
 border-color: #6D7997;
 }
